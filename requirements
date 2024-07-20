@@ -1,0 +1,1 @@
+Используются библиотеки pyTelegramBotAPI и sqlite3. Необходимо установить их через pip install
